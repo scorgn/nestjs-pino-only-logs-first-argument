@@ -1,6 +1,6 @@
 ## Description
 
-This starter repository contains everything necessary for a minimal example repo, and nothing more. Everything you need is in main.ts, currently logging a simple statement.
+The code that reproduces the example is in main.ts. To reproduce the example, run `npm install` and then run `npm run start`.
 
 ## Installation
 
